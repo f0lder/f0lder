@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Ask me about **C/C++, NodeJS, MFC, PHP, Python**</h3>
+<h3 align="left">Ask me about C/C++, NodeJS, MFC, PHP, Python</h3>
 
 ###
 
