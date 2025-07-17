@@ -1,11 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <h3 align="left">Currently working on my portofolio</h3>
 
 ###
@@ -22,7 +14,7 @@
 
 ###
 
-<h3 align="left">Know about my experiences https://f0lder.xyz/about </h3>
+<h3 align="left">Portofolio https://fldr.xyz/ </h3>
 
 ###
 
