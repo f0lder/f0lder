@@ -1,16 +1,6 @@
-<h3 align="left">Currently working on my portofolio</h3>
+<h3 align="left">Web & Software Dev | CTF Player</h3>
 
 ###
-
-<h3 align="left">I’m currently learning: Unity, C#</h3>
-
-###
-
-<h3 align="left">All of my projects (will be) are available at https://f0lder.xyz</h3>
-
-###
-
-<h3 align="left">Ask me about C/C++, NodeJS, MFC, PHP, Python</h3>
 
 ###
 
